@@ -4,11 +4,13 @@ Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelw
 
 A proposta do projeto é desenvolver uma page landing sobre uma plataforma de cadastros e busca de professores online do frontEnd ao BackEnd.
 
+---
 
 ## Começando
 
 Estas instruções lhe darão uma cópia do projeto em funcionamento na sua máquina local para fins de desenvolvimento e testes.
 
+---
 
 ## Tecnologias utilizadas na construção
 
@@ -21,6 +23,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 - Nunjucks 
 - SQLite
 
+---
 
 ## Como executar o projeto
 
@@ -40,6 +43,7 @@ npm run dev
 
 Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 
+---
 
 ## Licença
 

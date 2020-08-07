@@ -28,7 +28,7 @@ async function pageStudy(req, res) {
         )
         AND classes.subject = '${filters.subject}'
     `
-
+    
     try {
         const db = await Database
         const proffys = await db.all(query)

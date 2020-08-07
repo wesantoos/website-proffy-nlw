@@ -110,6 +110,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE.md).
+Este projeto esta sobe a licença [MIT](./LICENSE).
 
 Feito por Wesley Santos 👋🏻 [Entre em contato!](https://www.linkedin.com/in/santoswesley/)

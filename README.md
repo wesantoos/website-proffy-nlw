@@ -65,10 +65,10 @@ Além disto ter um editor para trabalhar com o código como [VSCode](https://cod
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/grioos/proffy
+$ git clone https://github.com/wesantoos/website-proffy-nlw.git
 
 # Acesse a pasta do projeto no seu vscode
-$ cd proffy
+$ cd nlw-rocketseat
 
 # Instale as dependências
 $ npm install
